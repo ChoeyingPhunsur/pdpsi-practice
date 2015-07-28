@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica;
+  margin-top: 55px;
 }
 
 header {
@@ -44,7 +45,6 @@ header ul li a:hover {
 #welcome {
   height: 450px;
   border: 3px solid black;
-  margin-top: 55px;
 }
 
 #brothers {
