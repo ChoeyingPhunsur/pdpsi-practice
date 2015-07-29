@@ -47,6 +47,11 @@ header ul li a:hover {
   border: 3px solid black;
 }
 
+#about-but {
+  padding-top: 100px;
+  text-align: center;
+}
+
 #about-desc {
   width: 150vh;
   height: 75vh;
